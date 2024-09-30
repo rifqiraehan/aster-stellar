@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Belajar API Star</string>
+    <string name="search">Search</string>
+    <string name="not_found">Nama bintang tidak ditemukan.</string>
+    <string name="looking_star">Cari bintang dan jelajahi angkasa</string>
+    <string name="name_label">Name</string>
+    <string name="name_value">Vega</string>
+    <string name="constellation_label">Constellation</string>
+    <string name="constellation_value">Lyra</string>
+    <string name="right_ascension_label">Right Ascension</string>
+    <string name="right_ascension_lvalue">18h 36m 56.19s</string>
+    <string name="declination_label">Declination</string>
+    <string name="declanation_value">+38° 46′ 58.8″</string>
+    <string name="apparent_magnitude_label">Apparent Magnitude</string>
+    <string name="apparent_magnitude_value">0.03</string>
+    <string name="absolute_magnitude_label">Absolute Magnitude</string>
+    <string name="absolute_magnitude_value">0.58</string>
+    <string name="distance_light_years_label">Distance (Light Years)</string>
+    <string name="distance_light_years_value">25</string>
+    <string name="spectral_class_label">Spectral Class</string>
+    <string name="spectral_class_value">A0Vvar</string>
+</resources>

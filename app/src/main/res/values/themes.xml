@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.BelajarAPIStar" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:statusBarColor">@color/white_gray</item>
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+    <color name="icon_color">@color/gray_dark</color>
+    <color name="text_color">@color/gray_dark</color>
+
+    <style name="Theme.BelajarAPIStar" parent="Base.Theme.BelajarAPIStar" />
+</resources>
